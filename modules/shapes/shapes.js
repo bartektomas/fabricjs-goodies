@@ -45,3 +45,29 @@ canvas.selection = false; // disable group selection
 fabric.Image.fromURL('../../img/Dialog-stop-hand.svg.png', function(oImg) {
   canvas.add(oImg);
 });
+
+
+console.log(canvas.toDataURL());
+
+// var button = document.getElementById("download");
+// button.addEventListener("click",function(e){
+//   var dataUrl = canvas.toDataURL();
+//   consoler.log(canvas.toDataURL())
+//   // $(this).attr('href', dataUrl);
+// },false);
+
+
+var data = canvas.toDataURL();
+
+var img = document.createElement('img');
+img.src = data;
+
+var a = document.createElement('a');
+a.setAttribute("download", "YourFileName.jpeg");
+a.setAttribute("href", data);
+a.appendChild(img);
+
+var w = open();
+w.document.title = 'Export Image';
+w.document.body.innerHTML = 'Left-click on the image to save it.';
+w.document.body.appendChild(a);
