@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="280" height="280" style="background-color: rgba(100,100,200,.5)" xml:space="preserve"><desc>Created with Fabric.js 1.5.0</desc><defs></defs><rect x="-25" y="-25" rx="0" ry="0" width="50" height="50" style="stroke: rgba(0,0,0,1); stroke-width: 2; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: red; fill-rule: nonzero; opacity: 0.7;" transform="translate(100 136.77) rotate(45)"/>
+<circle cx="0" cy="0" r="20" style="stroke: none; stroke-width: 1; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: green; fill-rule: nonzero; opacity: 1;" transform="translate(120 120) "/>
+<polygon points="-10 15,0 -15,10 15" style="stroke: none; stroke-width: 1; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: blue; fill-rule: nonzero; opacity: 1;" transform="translate(60 65)"/><g transform="translate(25 25)">
+<image xlink:href="file:///home/webonise/work/github/public-repo/fabricjs-goodies/img/Dialog-stop-hand.svg.png" x="-25" y="-25" style="stroke: none; stroke-width: 1; stroke-dasharray: ; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" width="50" height="50" preserveAspectRatio="none"></image>
+</g>
+</svg>
