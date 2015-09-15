@@ -1,0 +1,19 @@
+/*font family*/
+@font-face {
+    font-family: 'action_manregular';
+    src: url('../fonts/action_manregular/action_man-webfont.eot');
+    src: url('../fonts/action_manregular/action_man-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/action_manregular/action_man-webfont.woff2') format('woff2'),
+         url('../fonts/action_manregular/action_man-webfont.woff') format('woff'),
+         url('../fonts/action_manregular/action_man-webfont.ttf') format('truetype'),
+         url('../fonts/action_manregular/action_man-webfont.svg#action_manregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+canvas {
+  border: 1px solid #e1e1e1;
+  height: 280px;
+  width: 280px;
+}
