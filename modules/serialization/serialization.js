@@ -18,5 +18,5 @@ fabric.Image.fromURL('../../img/Dialog-stop-hand.svg.png', function(oImg) {
   canvas.add(oImg);
 });
 
-// console.log(JSON.stringify(canvas));
+console.log(JSON.stringify(canvas));
 // console.log(canvas.toSVG());
